@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haitham gomaa
 - 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning  Js Html CSS bootstrap reactjs c++ c# python php 
+- 🌱 I’m currently learning  Js, Html, CSS, bootstrap, reactjs, c++ ,c# python and php 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haisameslam@gmail.com 
 - haisamgomaa399@gmail.com 
